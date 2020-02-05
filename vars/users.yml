@@ -1,8 +1,8 @@
 ---
 users:
   - name: obama
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "tokyo"
   - name: trump
-    aws_groups: "losangeles, sanfrancisco, napa"
+    aws_groups: "osaka"
   - name: kobe
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "yokohama"
